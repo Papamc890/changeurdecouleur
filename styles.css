@@ -1,0 +1,24 @@
+.contenair{
+    text-align: center;
+    margin-top: 50px;
+}
+
+#color-box{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    margin: 20px auto;
+}
+
+#change-color-btn {
+    padding: 10px 20px;
+    background-color: blue;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#change-color-btn:hover {
+    background-color: #1d4ed8;
+}
